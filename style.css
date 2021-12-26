@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    background-color: rgb(243, 220, 243);
+}
+.heading {
+    font-size: 25px;
+    letter-spacing: 3px;
+    font-variant: inherit;
+    border-radius: 8px;
+    width: 500px;
+}
+span {
+    font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_gesture
+{
+  color: black;
+}
+.Gesture_meaning
+{
+  font-size: 40px;
+}
+.Gesture
+{
+  font-size:48px;
+}
+label {
+  background-color: honeydew;
+  font-size: 14px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  color: indigo;      
+  border-radius: 5px;
+  padding: 5px;
+}
